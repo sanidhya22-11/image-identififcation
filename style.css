@@ -1,0 +1,61 @@
+body{
+    font-family: 'Amatic SC', cursive;
+    background-color: rgb(27, 233, 171);
+}
+.header_div{
+    background-color: white;
+    color : cyan (31, 1, 138);
+}
+.header_div img{
+width: 100px;
+}
+.main_div{
+    background:pink;
+    padding: 10px;
+    margin-top:15px;
+    border:3px solid white;
+}
+.main_div label{
+    background:rgb(207, 155, 164);
+    padding: 10px;
+    margin-bottom:0px;
+    box-shadow:5px 5px 18px white;
+    width:310px;
+    
+}
+#camera ,#result { 
+    border:2px solid white;
+    width:310px;
+    height:300px;
+    box-shadow:5px 5px 18px white;
+}
+.main_div button{
+    width:310px;
+    font-style:16px;
+    box-shadow:5px 5px 18px white;
+    border:1px solid;
+}
+.footer_div{
+    margin-bottom:50px;
+}
+.footer_div h4{
+    background:azure;
+    border-radius: 10px;
+    padding : 5px;
+    box-shadow:5px 5px 18px white;
+
+}
+.footer_div img{
+    width: 70px;
+
+}
+.copyright_footer{
+    position: fixed;
+    width: 100% ;
+    bottom:0px;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+    color:honeydew;
+}
+
